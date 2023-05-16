@@ -4,4 +4,4 @@
 
 "Twitter_Profiles_Scraping.csv" is the scraped data in csv format.
 
-"Twitter_Accounts.csv" is the list of 20 accounts from which the data is scraped.
+"Twitter_Accounts.csv" is the list of 20 Twitter account links from which the data is scraped.
